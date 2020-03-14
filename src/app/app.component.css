@@ -1,0 +1,9 @@
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+button{
+    background-color: #FFFFFF;
+    float: right;
+}
+
+mat-toolbar{
+    background-color:#213e47;
+}
